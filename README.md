@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">- Originally from 🇹🇷Turkey but born and raised in 🇨🇭Switzerland , so my ❤️ stucks between 🥙kebab, ⌚watches, 🍫chocolate and 🧀 cheese 🫠<br><br>- I have an experience and knowledge over 10 Years from the watch and jewellery industrie where i have worked in<br><br>- The languages i fluently speak are Turkish, German, English and Swissgerman (Schwizerdütsch) 😆</p>
+<p align="left">- I am originally from 🇹🇷Turkey but born and raised in 🇨🇭Switzerland , <br>so my ❤️ stucks between 🥙kebab, ⌚watches, 🍫chocolate and 🧀 cheese 🫠<br><br>- I have an experience and knowledge over 10 Years from the watch and jewellery industrie where i have worked in<br><br>- The languages i fluently speak are Turkish, German, English and Swissgerman (Schwizerdütsch) 😆</p>
 
 ###
 
