@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&reversal=true&text=Welcome%20to%20my%20profile&fontSize=33&fontColor=FFFFFF&fontAlign=21&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&descSize=15&descAlign=75&descAlignY=50&textBg=false&color=A80000"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&reversal=true&text=Welcome%20to%20my%20profile&fontSize=33&fontColor=FFFFFF&fontAlign=21&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&desc=Name:%20Muhammed%20/%20From:%20Basel%20%09%F0%9F%87%A8%F0%9F%87%ADSwitzerland%20%09&descSize=15&descAlign=75&descAlignY=50&textBg=false&color=A80000"  />
 </div>
 
 ###
@@ -15,14 +15,8 @@
 
 ###
 
-<br clear="both">
-
-<p align="center">My name is Muhammed from Basel 	🇨🇭Switzerland</p>
-
-###
-
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=75&section=header&reversal=false&text=ABOUT%20ME&fontSize=23&fontColor=A80000&fontAlign=50&fontAlignY=45&rotate=6&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=A80000"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=75&section=header&reversal=false&text=ABOUT%20ME%20%F0%9F%A4%99%F0%9F%8F%BC&fontSize=23&fontColor=A80000&fontAlign=10&fontAlignY=45&rotate=0&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=A80000"  />
 </div>
 
 ###
@@ -32,43 +26,43 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=75&section=header&reversal=false&text=CURRENT%20SKILLS&fontSize=23&fontColor=A80000&fontAlign=50&fontAlignY=45&rotate=-10&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=A80000"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=75&section=header&reversal=false&text=CURRENT%20SKILLS%20%F0%9F%92%AF&fontSize=23&fontColor=A80000&fontAlign=86&fontAlignY=45&rotate=0&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&color=A80000"  />
 </div>
 
 ###
 
-<div align="center">
+<div align="right">
   <img src="https://cdn.simpleicons.org/css/1572B6" height="50" alt="css logo"  />
-  <img width="140" />
+  <img width="137" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="50" alt="html5 logo"  />
 </div>
 
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=62&section=header&reversal=false&text=SKILLS%20IN%20THE%20MAKING&fontSize=23&fontColor=A80000&fontAlign=50&fontAlignY=45&rotate=5&stroke=-&strokeWidth=0&descSize=20&descAlign=50&descAlignY=50&color=A80000"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=62&section=header&reversal=false&text=SKILLS%20IN%20THE%20MAKING%20%F0%9F%92%BB&fontSize=23&fontColor=A80000&fontAlign=17&fontAlignY=45&rotate=0&stroke=-&strokeWidth=0&descSize=20&descAlign=50&descAlignY=50&color=A80000"  />
 </div>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="80" />
+  <img width="59" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
-  <img width="80" />
+  <img width="59" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="django logo"  />
-  <img width="80" />
+  <img width="59" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
-  <img width="80" />
+  <img width="59" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="80" />
+  <img width="59" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50" alt="angularjs logo"  />
 </div>
 
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=A80000"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Learning%20Full-Stack%20Development.%20Building%20with%20purpose.&fontSize=22&fontColor=FFFFFF&fontAlign=65&fontAlignY=70&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=A80000"  />
 </div>
 
 ###
