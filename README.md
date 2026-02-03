@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&reversal=true&text=Welcome%20to%20my%20profile&fontSize=33&fontColor=FFFFFF&fontAlign=21&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&desc=Name:%20Muhammed%20/%20From:%20Basel%20%09%F0%9F%87%A8%F0%9F%87%ADSwitzerland%20%09&descSize=15&descAlign=75&descAlignY=50&textBg=false&color=A80000"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&reversal=true&text=Welcome%20to%20my%20profile&fontSize=33&fontColor=FFFFFF&fontAlign=21&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&desc=Name:%20Muhammed%20/%20From:%20Basel%20%09%F0%9F%87%A8%F0%9F%87%ADSwitzerland%20%09&descSize=15&descAlign=75&descAlignY=50&textBg=false&color=6D00FC"  />
 </div>
 
 ###
