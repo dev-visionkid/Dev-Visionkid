@@ -62,7 +62,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Learning%20Full-Stack%20Development.%20Building%20with%20purpose.&fontSize=22&fontColor=FFFFFF&fontAlign=65&fontAlignY=70&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=A80000"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=Learning%20Full-Stack%20Development.%20Building%20with%20purpose.&fontSize=22&fontColor=FFFFFF&fontAlign=65&fontAlignY=70&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=6D00FC"  />
 </div>
 
 ###
